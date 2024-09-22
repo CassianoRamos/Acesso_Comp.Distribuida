@@ -1,0 +1,9 @@
+Data/Hora, Número da tag, Nome do Usuário, Permissão, Entrada/Saída, Tempo na Sala
+2024-09-22 17:21:04,11,Beltrano,Usuário autorizado,Entrada,
+2024-09-22 17:21:30,11,Beltrano,Usuário autorizado,Saída,0:00:25.522319
+2024-09-22 17:21:43,837196207282,Fulano,Usuário autorizado,Entrada,
+2024-09-22 17:21:58,12,Tentativas de invasão: 1,,,
+2024-09-22 17:22:12,15,Tentativas de invasão: 2,,,
+2024-09-22 17:22:22,634156810886,Ciclano,Usuário não autorizado - Tentativas: 1,,
+2024-09-22 17:23:02,37196207282,Tentativas de invasão: 3,,,
+2024-09-22 17:23:06,837196207282,Fulano,Usuário autorizado,Saída,0:01:22.592129
